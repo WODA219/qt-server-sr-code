@@ -1,12 +1,14 @@
-# qt servr source codes
-qtat source code with some modifications (hacks). The code is obfuscated, but i am slowly deobfuscating things that i want to modify. So in future the code will come more readable, but it will never be fully deobfuscated. 
+ исходные коды qt server and client
+Исходный код qtanks с некоторыми изменениями (взломами). Код запутан, но я постепенно устраняю путаницу в том, что я хочу изменить. Таким образом, в будущем код станет более худже, но он никогда не будет полностью деобфускирован. 
 
-## Compiling
-#### Preparing the SDKs
-We need two SDKs, AIR SDK for debugging and FLEX SDK for compiling.
+## Компиляция
+#### Подготовка SDK
+Нам нужны два SDK: AIR SDK для отладки и FLEX SDK для компиляции.
 
-For compiling you should use flex_sdk_4.6.0.23201. It can be found here: https://github.com/JamesMGreene/node-flex-sdk/blob/master/FlexSDKs.md After extracting the SDK, you should replace "flex_sdk_4.6.0.23201/frameworks/libs/air/airglobal.swc" file with "this_repo/tools/airglobal.swc" file. The tools folder is on this repository. Tools folder can be deleted after the swc file is replaced.
+Для компиляции вы должны использовать flex_sdk_4.6.0.23201. Его можно найти здесь: https://github.com/JamesMGreene/node-flex-sdk/blob/master/FlexSDKs.md После извлечения SDK вам следует заменить файл "flex_sdk_4.6.0.23201/frameworks/libs/air/airglobal.swc" на файл "this_repo/tools/airglobal.swc". Папка tools находится в этом репозитории. Папку Tools можно удалить после замены swc-файла.
 
-Next download air SDK (https://airsdk.harman.com/download). Extract it where ever you want.
+Далее загрузите air SDK (https://airsdk.harman.com/download). Извлеките его, куда захотите.
 
-Finish !!
+Готово!!
+Пе
+https://prnt.sc/cQs0SSsMyLtb фулл QTanks 
